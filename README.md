@@ -28,7 +28,7 @@ As you explore Kotlin in this playground with me, consider starting with these f
 
 9. **Coroutines**: Delve into asynchronous programming with Kotlin's coroutines.
 
-## Contributing
+## Sub-directories
 
 Checkout subdirectories within this repository for a more organize learning path. Each subdirectory can focus on a specific topic or concept in Kotlin. To gain more insights and knowledge, check out the README files within these subdirectories.
 
