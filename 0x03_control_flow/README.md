@@ -61,3 +61,31 @@ You can also do the same with Char ranges:
 -   `'a'..'d'` is equivalent to `'a', 'b', 'c', 'd'`
 
 -   `'z' downTo 's'` step 2 is equivalent to `'z', 'x', 'v', 't'`
+
+## Loops
+
+The two most common loop structures in programming are `for` and `while`. Use for to iterate over a range of values and perform an action.
+
+Use `while` to continue an action until a particular condition is satisfied.
+
+Collections can also be iterated over by loops:
+
+### For
+
+Using your new knowledge of ranges, you can create a `for` loop that iterates over numbers 1 to 5 and prints the number each time.
+
+Place the iterator and range within parentheses `()` with keyword in. Add the action you want to complete within curly braces `{}`:
+
+### While
+
+while can be used in two ways:
+
+To execute a code block while a conditional expression is true. (`while`)
+
+To execute the code block first and then check the conditional expression. (`do-while`)
+
+In the first use case (`while`):
+
+Declare the conditional expression for your `while` loop to continue within parentheses `()`.
+
+Add the action you want to complete within curly braces `{}`.
